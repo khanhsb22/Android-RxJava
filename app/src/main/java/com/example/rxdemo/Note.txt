@@ -1,0 +1,7 @@
+- MainActivity: Using Observable, Observer, Disposable, DisposableObserver, CompositeDisposable
+- MainActivity2: Observable, Observer using Model class
+- MainActivity3: Using map operator
+- MainActivity4: Using flatmap operator, create operator in method
+- MainActivity5: Using switchMap operator
+- MainActivity6: Use Merge operator
+- SomeObservable: Single, Maybe, Completable
